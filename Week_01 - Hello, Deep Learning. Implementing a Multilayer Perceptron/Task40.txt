@@ -1,0 +1,41 @@
+Which class of AI techniques began to work around 2005 for solving real-world problems?
+	Машинното самообучение, също така и примера, където затварят компютър в стая и започва да чете френски, за да го научи
+	Класификационната задача, като за пример са дали с Алан Тюринг. 
+What is a classic application of AI is discussed in the video? - 
+	Лицево разпознзаване
+What is the simplest way of getting Machine Learning to solve a task?
+	Supervised learning — трениране на модела чрез входно-изходни връзки
+Define what supervised learning is.
+	Метод на машинно самообучение, където използваме тренировъчни данни
+What does AI require in order to work at all?
+	Тренировъчни данни
+What class of tasks does the task for facial recognition belong to?
+	Класификационния клас
+What is the task solved by each neuron in the brain?
+	Прави много прости задачи, които са разпознзаване на образи(pattern recognition)
+What happens when a neuron recognizes a pattern?
+	Активира се и изпраща сигнал към всички други неврони, които са свързани към него
+What is a digital picture made up of?
+	Пиксели или накратко "точки", които представляват един неврон
+What are the three reasons that allowed the modelling of human brain cells in software?
+	Откритията в дълбокото обучение, големите данни(big data), и евтините видеокарти или като цяло компютърни части
+Which type of computer processor is suited really well for performing the mathematics related to deep learning?
+	Видеокартата(GPU)
+Do the capabilities of neural networks grow with scale?
+	Колкото е по-голям, толкова повече трябват данни и съответно изчислителна мощ
+What allowed for the biggest and fastest advances in the field?
+	Достъпът до повече данни(интернет) и също така по-евтините видеокарти
+What is the name of the probably most important paper in the last decade? -
+	Attention is all you need / Вниманието е единственото нещо, което ти трябва
+What is the Transformer architecture designed for?
+	Изграждането на големи данни, които правят prompt-завършване / предсказват следващата дума
+What is the innovation that the Transformer architecture has?
+	Механизвъм за вниманието
+What is the key point about GPT-3?
+	Автоматизацията. Научил се е да предсказва какво да отговори или какво е причината зад този отговор на база знанието, което има
+Is machine learning more efficient at learning than humans? Why? 
+	Не е, защото както дадоха в примера, за да имаш знанието, както примерно gpt-3 е имало като тренировъчни данни - информация около 500 милиарда думи. На нас хората, не е нужно да знаем тази тренировъчна информация, за да имаме това знание.
+What is "the b itter truth"?
+	Накратко - за да прогресира изкуствения интелект просто ни трябват повече данни и повече изчислителна мощ
+What is one reason why ChatGPT is not conscious?
+	Защото е изключен от външиния свят. Тоест, той е само чат без съзнание. Няма физически мозък и връзки между неврони да правят решения. Няма възможността да изпитва неща от лична гледна точка

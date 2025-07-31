@@ -1,0 +1,17 @@
+What is machine learning in 1 sentence?
+	Метод на обучение, където машината учи готова информация
+What is deep learning in 1 sentence?
+	Метод на обучение чрез невронни мрежи, където състемата прави свои изводи
+What is does model training mean in 1 sentence?
+	Един модел постоянно тренира, докато не достигне или стигне най-близо до очакванията, които си му задал
+What task do Large Language Models solve?
+	Вероятността за следващата дума в изречение
+What is the difference between loss functions and metrics?
+	loss function е за оптимизация на самия модел, а metrics са това, което проверяват изпълнението на самия модел 
+Why is the use of mean squared error preferred to the use of mean absolute error?
+	Mean squared error набляга към по-големите грешки или накратко ингорира незначителните такива. За разлика, mean absolute error всъщност третира всички еднакво
+Why can't we cube the difference to get the mean error instead of squaring it?
+	Защото на трета степен може да доведе до отрицателни стойности (- * - * - = -)
+Why is the derivative of the loss function beneficial during model training?
+	Защото ни подсказва в каква посока ще стойността на функцията на загубата надолу. 
+	Реално е противоположната посока на производната
